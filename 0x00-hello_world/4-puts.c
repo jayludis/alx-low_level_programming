@@ -2,7 +2,7 @@
 /**
  * main - this is the main function
  * Description - This program prints strings
- * Return always 0
+ * Return: always 0 (success)
  */
 int main(void)
 {
