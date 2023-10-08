@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - this is the main function
- * Description
+ * Description - This program prints strings
  * Return always 0
  */
 int main(void)
