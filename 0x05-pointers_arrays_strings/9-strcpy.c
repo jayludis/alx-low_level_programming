@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strcpy - Copiar el contenido de uno a otra variable
+ * char *_strcpy - a function that copies the string pointed to by src 
  * @dest: This is destiny
  * @src: This is the copia
  * 
