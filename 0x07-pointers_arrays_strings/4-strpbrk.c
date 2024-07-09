@@ -3,11 +3,12 @@
 /**
  * _strpbrk - Searches for any of a set of bytes.
  * @s: The string to be searched for.
- *
+ * @accept: input
  * Return: if a set is matched - a pointer to the matched byte
- If no set is matched - NULL.
+ * If no set is matched - NULL.
  */
-char *strpbrk(char *s, char *accept)
+
+char *_strpbrk(char *s, char *accept)
 {
 	int index;
 	
